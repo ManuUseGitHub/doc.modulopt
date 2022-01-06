@@ -72,6 +72,10 @@ The philosophy of this module is to ease the pain of designing option management
 
 ---
 
+Links: [GIT REPO](https://github.com/ManuUseGitHub/modulopt) | [NPM](https://www.npmjs.com/package/modulopt) | [DOCUMENTATION](https://modulopt-doc.herokuapp.com) | [MIT LICENSE](https://raw.githubusercontent.com/ManuUseGitHub/modulopt/master/LICENSE)
+
+---
+
 **Table of Contents:**
 [TOC]
 
